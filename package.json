@@ -1,6 +1,6 @@
 {
   "name": "useragent",
-  "version": "2.3.0",
+  "version": "2.4.0-atlassian.1",
   "description": "Fastest, most accurate & effecient user agent string parser, uses Browserscope's research for parsing",
   "author": "Arnout Kazemier",
   "main": "./index.js",
@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/3rd-Eden/useragent.git"
+    "url": "http://github.com/atlassian-forks/useragent.git"
   },
   "devDependencies": {
     "assume": "1.5.x",
